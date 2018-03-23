@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { interval } from 'rxjs/observable/interval';
+import { interval } from 'rxjs';
 
 @Component({
   selector: 'app-root',
